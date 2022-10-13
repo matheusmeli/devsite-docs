@@ -1,13 +1,5 @@
 # Glossary
 
-----[mco, mlc, mla, mlm]----
-> WARNING
->
-> Important
->
-> Some definitions are no longer available or have changed. Please use this glossary to check the terms for the reports you generate from June onwards. For reports that include previous dates, [please check this Glossary.](https://www.mercadopago[FAKER][URL][DOMAIN]/developers/es/docs/additional-content/reports/released-money/glossary-old)
-------------
-
 If you have any doubts about the technical terms used, check the glossary below.
 
 | Name on the report column | What it means |
